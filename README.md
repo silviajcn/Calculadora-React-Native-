@@ -25,6 +25,6 @@ My second project in React Native: IOS Calculator
 
 ## 🌟 Curso
 
-Curso: React Native: Aplicaciones nativas para IOS y Android
-Profesor: Fernando Herrera
-Plataforma: Udemy
+* Curso: React Native: Aplicaciones nativas para IOS y Android
+* Profesor: Fernando Herrera
+* Plataforma: Udemy

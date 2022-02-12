@@ -17,7 +17,7 @@ My second project in React Native: IOS Calculator
 * Estilos condicionales
 
 ## Calculadora
-<img width="35%" alt="calculadora" src="https://res.cloudinary.com/silviajcn/image/upload/v1644709489/React%20native/Proyecto%202%20%28Calculadora%29/calculadora-ios_yffg1i.jpg" />
+<img width="35%" alt="calculadora" src="https://res.cloudinary.com/silviajcn/image/upload/v1644709536/React%20native/Proyecto%202%20%28Calculadora%29/WhatsApp_Image_2022-02-12_at_6.43.22_PM_vycn12.jpg" />
 
 ## Autor
 
